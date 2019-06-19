@@ -1,3 +1,6 @@
+# Author : Varun Nayal
+# Email  : vnayal@tavisca.in
+
 companyName = "Tavisca"
 programmeName = "Prejoining Training"
 
